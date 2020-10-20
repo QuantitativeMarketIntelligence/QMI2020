@@ -7,6 +7,8 @@ __pycache__/
 # C extensions
 *.so
 
+webscrape-env/
+
 # Distribution / packaging
 .Python
 build/
